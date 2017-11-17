@@ -1,2 +1,7 @@
-# cs325projectG24
-CS325 Final Project Group 24. Implementation of Christofides Approximation for the general Traveling Salesman Problem
+# Christofides Algorithm in Python
+Implementation of Christofides Approximation for the general Traveling Salesman Problem
+
+Dependencies:
+Python 2.7
+
+
